@@ -1,0 +1,4 @@
+export const GET_TODAY = 'GET_TODAY';
+export const GET_TODAY_SUCCEEDED = 'GET_TODAY_SUCCEEDED';
+export const FETCH_SUCCEEDED = 'FETCH_SUCCEEDED';
+export const FETCH_FAILED = 'FETCH_FAILED';
